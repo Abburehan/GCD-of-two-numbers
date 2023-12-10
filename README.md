@@ -15,7 +15,7 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-/*
+
 Program to find the gcd of two number using function.
 Developed by: Abbu Rehan
 RegisterNumber: 23010259
@@ -25,7 +25,7 @@ RegisterNumber: 23010259
     print("GCD of two numbers is:",gcd)
 a=int(input())
 b=int(input()) 
-*/
+
 ```
 
 ## Output:
